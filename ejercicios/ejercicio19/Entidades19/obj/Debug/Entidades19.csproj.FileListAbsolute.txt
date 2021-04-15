@@ -1,0 +1,6 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio19\Entidades19\bin\Debug\Entidades19.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio19\Entidades19\bin\Debug\Entidades19.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio19\Entidades19\obj\Debug\Entidades19.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio19\Entidades19\obj\Debug\Entidades19.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio19\Entidades19\obj\Debug\Entidades19.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio19\Entidades19\obj\Debug\Entidades19.pdb

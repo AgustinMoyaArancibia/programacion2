@@ -1,0 +1,10 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\bin\Debug\ejercicio13.exe.config
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\bin\Debug\ejercicio13.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\bin\Debug\ejercicio13.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\bin\Debug\conversores.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\bin\Debug\conversores.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csproj.CopyComplete
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\obj\Debug\ejercicio13.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\ejercicio13\obj\Debug\ejercicio13.pdb

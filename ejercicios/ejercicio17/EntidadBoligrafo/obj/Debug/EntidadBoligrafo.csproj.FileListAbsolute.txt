@@ -1,0 +1,6 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio17\EntidadBoligrafo\bin\Debug\EntidadBoligrafo.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio17\EntidadBoligrafo\bin\Debug\EntidadBoligrafo.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio17\EntidadBoligrafo\obj\Debug\EntidadBoligrafo.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio17\EntidadBoligrafo\obj\Debug\EntidadBoligrafo.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio17\EntidadBoligrafo\obj\Debug\EntidadBoligrafo.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio17\EntidadBoligrafo\obj\Debug\EntidadBoligrafo.pdb

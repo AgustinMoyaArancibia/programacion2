@@ -1,0 +1,7 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\bin\Debug\ejercicio3.exe.config
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\obj\Debug\ejercicio3.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\obj\Debug\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio3\obj\Debug\ejercicio3.pdb

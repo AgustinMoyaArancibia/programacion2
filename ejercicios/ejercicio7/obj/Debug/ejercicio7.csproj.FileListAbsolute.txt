@@ -1,0 +1,7 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\bin\Debug\ejercicio7.exe.config
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\bin\Debug\ejercicio7.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\bin\Debug\ejercicio7.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\obj\Debug\ejercicio7.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\obj\Debug\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\obj\Debug\ejercicio7.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio7\obj\Debug\ejercicio7.pdb

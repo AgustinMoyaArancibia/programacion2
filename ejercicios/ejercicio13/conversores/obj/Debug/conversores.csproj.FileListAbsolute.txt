@@ -1,0 +1,6 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\conversores\bin\Debug\conversores.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\conversores\bin\Debug\conversores.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\conversores\obj\Debug\conversores.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\conversores\obj\Debug\conversores.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\conversores\obj\Debug\conversores.dll
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio13\conversores\obj\Debug\conversores.pdb

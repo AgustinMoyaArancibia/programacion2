@@ -1,0 +1,7 @@
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\bin\Debug\ejercicio 4.exe.config
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\bin\Debug\ejercicio 4.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\bin\Debug\ejercicio 4.pdb
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\obj\Debug\ejercicio 4.csprojAssemblyReference.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\obj\Debug\ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\obj\Debug\ejercicio 4.exe
+C:\Users\agusf\Desktop\proyectos programacion 2\ejercicios\ejercicio 4\obj\Debug\ejercicio 4.pdb
